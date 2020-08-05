@@ -2,8 +2,8 @@
 CTT Chatbot source code
 * Introduction
   - Rasa source code for CTT Chatbot FB application, using FB Messenger as UI/UX.
-  - CTT Chatbot is an AI chatbot providing HUST students with neccessary and personal informations (schedulers, notifications,...)
-  - CTT Chatbot, developed by a 5-student group from HUST, won First Prize at SoICT-IBM Hackathon 2020 (host by SoICT, HUST in June 2020)
+  - CTT Chatbot is an AI chatbot providing HUST students with neccessary and personal informations (schedulers, notifications,...).
+  - CTT Chatbot, developed by a 5-student group from HUST, won First Prize at SoICT-IBM Hackathon 2020 (host by SoICT, HUST in June 2020).
 * Descriptions of files
   - --init--.py: empty file that helps python find actions
   - actions.py: code for actions
