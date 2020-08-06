@@ -1,0 +1,29 @@
+intents:
+  - xin_chao
+  - tam_biet
+  - cam_on
+  - hoi_lich_hoc_ca_tuan
+  - hoi_lich_hoc_hom_nay
+  - hoi_lich_hoc_ngay_mai
+  - hoi_lich_thi
+  - hoi_lich_thi_hom_nay
+  - hoi_lich_thi_ngay_mai
+  - hoi_de_cuong
+  - tim_su_kien
+  - tim_thong_bao
+  - tim_hoc_bong
+  - tim_viec_lam
+
+responses:
+  utter_xin_chao:
+  - text: "Xin chào, mình là CTT Chatbot đây."
+  - text: "Chào bạn nhé, CTT Chatbot đấ sẵn sàng rồi!"
+
+  utter_tam_biet:
+  - text: "Tạm biệt nhé!"
+
+session_config:
+  session_expiration_time: 120
+  carry_over_slots_to_new_session: true
+
+
