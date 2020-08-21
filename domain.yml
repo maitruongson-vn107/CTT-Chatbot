@@ -14,6 +14,12 @@ intents:
   - tim_hoc_bong
   - tim_viec_lam
 
+entities:
+  - MSSV  #entity extracted in user's message
+  - subject #name of subject required (for materials,...)
+
+
+
 responses:
   utter_xin_chao:
   - text: "Xin chào, mình là CTT Chatbot đây."
@@ -21,6 +27,11 @@ responses:
 
   utter_tam_biet:
   - text: "Tạm biệt nhé!"
+
+  utter_hoi_MSSV:
+  - text: "Bạn nhập MSSV để mình tra cứu nhé!"
+  - text: "Mời bạn nhập MSSV."
+  - text: "Ok, cho mình xin MSSV nhé."
 
 session_config:
   session_expiration_time: 120
