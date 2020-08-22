@@ -96,7 +96,7 @@
 - tkb ngày mai [20183620](MSSV)
 - xem hộ tkb ngày mai [20183620](MSSV)
 
-## intent: synonym: thời khóa biểu
+## synonym: thời khóa biểu
 - tkb
 - lịch học 
 
@@ -148,10 +148,42 @@
 - lịch thi ngày mai [20183620](MSSV)
 - xem hộ lịch thi ngày mai [20183620](MSSV)
 
+
+
+
+## intent: tra_loi_MSSV
+<!-- "MSSV" entity -->
+- [20183620](MSSV)
+- MSSV là [20183620](MSSV)
+
 ## intent: hoi_de_cuong
 - cho xin đề cương [GT3](subject)
 - lấy tài liệu [Triết 1](subject)
 - bài tập môn [Vật lí đại cương](subject)
+
+## synonym: những nguyên lí cơ bản của chủ nghĩa Mác Lê-nin
+- triết
+- triết học
+- kinh tế chính trị
+- Mác Lê
+
+## synonym: vật lý đại cương
+- vật lý
+- lí
+- lí đại cương
+- vlđc
+- vldc
+
+## synonym: giải tích
+- gt
+- toán cao cấp
+- gtich
+- calculus
+
+## synonym: đại số
+- đs
+- algebra
+- toán cao cấp
 
 ## intent: tim_su_kien
 - sắp tới có sự kiện gì mới không?
