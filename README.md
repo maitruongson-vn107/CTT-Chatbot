@@ -14,3 +14,12 @@ CTT Chatbot source code
   - domain.yml: assistant's domain
   - endpoints.yml: details for connection to FB messenger
   - environment.yml: informations of env variables
+ 
+ * Virtual Environment:
+  * Configuration:
+    - python -3.7.7
+    - pip -20.2.2
+    - conda -4.8.4
+    - tensorflow -2.1.1
+    - rasa -1.10.10
+  
